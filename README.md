@@ -1,4 +1,4 @@
-# Optimization of nuSVC
+# optimization of nuSVC
 
 ## Dataset Used:
 **HTRU2** <br>
