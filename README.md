@@ -10,10 +10,10 @@
 - **Data Preprocessing**  
    - target variable is separated from the feature set
    - 70-30 split is done over 10 samples which are to be evaluated separately
-   - features are standardized using `StandardScaler` to improve model performance.]
+   - features are standardized using StandardScaler to improve model performance
 
 - **Model Selection**
-   - **nu Support Vector Classifier (nuSVC)** classifier is selected from `sklearn.svm`
+   - **nu Support Vector Classifier (nuSVC)** classifier is selected from sklearn.svm
 
 - **Parameter Optimization**
    - randomized parameter optimization is done using a fitness function
